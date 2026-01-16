@@ -28,4 +28,4 @@ Cyber security is the process used to protect  computers, networks, and programs
 > The overall economic loss due to cybercrime is estimated at
 > **$600 billion** annually (CSIS[^1]).
 
-[^1]: Lewis, J. A., cited in <https://www.csis.org/analysis/economic-impact-cybercrime>
+[^1]: Lewis, J. A., accessed at <https://www.csis.org/analysis/economic-impact-cybercrime>
