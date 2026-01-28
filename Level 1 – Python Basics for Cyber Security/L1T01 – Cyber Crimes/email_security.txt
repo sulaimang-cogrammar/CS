@@ -1,0 +1,28 @@
+* Three things that should have alerted me:
+1. The bank asking me to open a zip file.
+2. Typing error in the email address ("fruad_servces"@bank.com)
+3. The generic domain ("bank".com)
+4. The bank requiring me to fill in a form to freeze my account.
+5. "URGENT - complete forms": The subject has nothing to do with the content of the email.
+
+* The computer may be infected by a variant of a human-activated worm.
+
+* Social Engineering is a type of hacking that involves getting close to victims
+through communication (either directly or electronically), and may
+be carried out over a short period, or over a number of years. The aim of social
+engineering is to get a victim to to trust you, so that they may share valuable
+information, data, or money. Phishing is a variant of social engineering that involves
+sending unsolicited communication to several potential victims to increase the chances
+of getting a "bite" (a response from a victim). Once a target is obtained, the 
+phisher will attempt to obtain what they want through psychological manipulation.
+Social engineering may also involve providing victims with software to be installed
+intentionally or unintentionally by the victim, which then causes unexpected behaviour
+or may exfiltrate important information from the victim's device and may possibly also
+damage the device irreparably. Software that is developed to perform such malicious acts
+is called "malware" (derived from the words malfunction and software). To avoid having a device
+be infected with malware, victims should install a reliable antivirus. They should ensure
+that they do not install potentially unwanted applications on their devices, and ensure they
+are always aware of the source of the software they install on their computers. If downloading
+from reputable websites, they may also receive a checksum for the files they download,
+which they can then use to check that the files they download match the files provided by those
+reputable websites.

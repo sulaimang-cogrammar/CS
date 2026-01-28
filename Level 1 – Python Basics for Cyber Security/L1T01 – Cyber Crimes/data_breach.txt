@@ -1,0 +1,8 @@
+* If passwords are being reused in different accounts, then
+then the combination of email address and password may
+allow them to get into those other accounts as well.
+
+* To prevent this, given a data breach, victims
+  can change the passwords in affected and unaffected accounts.
+* They should also consider using different passwords
+  for different accounts to prevent future issues.
