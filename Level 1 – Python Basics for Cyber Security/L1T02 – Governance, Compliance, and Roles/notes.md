@@ -56,19 +56,19 @@ If you want, I can trim it down even further or shape it to match the tone of th
 
 ### Commonly Used Compliance Frameworks
 
-- **NIST Cybersecurity Framework**  
-  - Encourages voluntary collaboration between the public and private sectors.  
-  - Helps organisations identify and manage cyber security threats.  
+- **NIST Cybersecurity Framework**
+  - Encourages voluntary collaboration between the public and private sectors.
+  - Helps organisations identify and manage cyber security threats.
   - Considered one of the most reputable and widely adopted frameworks.
 
-- **General Data Protection Regulation (GDPR)**  
-  - Introduced in 2016 to strengthen data protection for EU citizens.  
-  - Applies to any organisation (including US businesses) that collects personal data from EU citizens.  
+- **General Data Protection Regulation (GDPR)**
+  - Introduced in 2016 to strengthen data protection for EU citizens.
+  - Applies to any organisation (including US businesses) that collects personal data from EU citizens.
   - Defines requirements for consumer data rights, data protection, and breach‑notification protocols.
 
-- **IoTSF Security Compliance Framework**  
-  - Developed by the Internet of Things Security Foundation, a global non‑profit.  
-  - Brings together IoT security experts, network providers, vendors, distributors, insurers, and government bodies.  
+- **IoTSF Security Compliance Framework**
+  - Developed by the Internet of Things Security Foundation, a global non‑profit.
+  - Brings together IoT security experts, network providers, vendors, distributors, insurers, and government bodies.
   - Specifies security requirements for business systems, mobile apps, and cloud services.
 
 > [!NOTE]  
@@ -89,3 +89,34 @@ If you want, I can trim it down even further or shape it to match the tone of th
 - Incident Responder
 - Vulnerability Assessor
 - Security Manager
+- Penetration Tester
+- Help Desk
+- Security Consultant
+
+### System Administration
+
+System administrator responsibilities within an organisation:
+
+- Managing software
+- Licensing software
+- Maintaining/Updating software
+- Database administration (potentially)
+- Managing Hardware
+- Managing Web Servers (if applicable)
+
+> [!IMPORTANT]
+  > Sysadmins are responsible for employing strategies to address and resolve issues like `server downtime` and `zero-day attacks`.
+
+> [!NOTE]
+> A system administrator is also called **sysadmin**/**sys admin**.
+
+#### Cloud Computing Administration
+
+Tasks for a cloud computing system administrator include:
+
+- Provisioning cloud resources
+- Scripting for cloud systems
+- Programming cloud systems
+- Automating security of cloud systems
+- Configuring Cloud systems
+- Maintaining System performance
