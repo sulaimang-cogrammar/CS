@@ -1,0 +1,34 @@
+# Security Framework
+
+## The issue
+
+There are several weak points in the current system that are likely to invite
+security breaches. One of the main issues is that staff members use personal
+computers att the office - if these belong to the staff members, then that is
+a weak point because the company does not have full control over those devices.
+
+A greater issue, then, is that some staff members do their work in coffee shops
+or cafes, which means that the network they are using is possibly insecure.
+
+There is also no on-site IT technician, which means that devices are likely not
+being updated or patched regularly, and staff may also not have the insight to
+identify issues.
+
+## Policies
+
+Staff doing work remotely must use a VPN to connect to the company network,
+and staff working in-office may not bring their own storage devices to work.
+When possible,, the company should issue staff with company-owned devices and
+all devices that access company data must have a firewall and antivirus installed.
+The company must also get a VPN and all staff must use it when working remotely.
+Staff may not - under any circumstance - leave their devices unattended in public,
+and devices must be locked when not in use. 
+
+The company must manage data access based on roles. The company should employ
+an IT technician to manage devices, and a security administrator must be employed
+from management to oversee security policies and compliance.
+
+## Awareness
+
+To ensure all staff remain aware of security policies, the company must hold
+frequent training sessions and conduct phishing tests periodically.
